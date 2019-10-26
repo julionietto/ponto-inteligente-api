@@ -2,4 +2,4 @@ language: java
 jdk:
   - oraclejdk8
 before_install
-  - chmod 777 mvnw
+  - chmod -R 777 mvnw
